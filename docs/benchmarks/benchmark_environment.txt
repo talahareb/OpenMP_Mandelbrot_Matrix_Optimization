@@ -1,0 +1,8 @@
+platform: Linux-6.18.57-x86_64-with-glibc2.41
+python: 3.13.5
+processor: 
+note: One machine, short measurements; run again for system-specific results
+CPU(s):                                  5
+Model name:                              AMD EPYC 9V74 80-Core Processor
+NUMA node0 CPU(s):                       0-4
+gcc (Debian 14.2.0-19) 14.2.0

@@ -1,0 +1,2 @@
+matplotlib>=3.6
+Pillow>=9.0
