@@ -1,0 +1,11 @@
+# Compiled binaries
+mandelbrot/mandelbrot
+matrix/matmul
+*.o
+# Generated local data and temp outputs
+*.pgm
+*.ppm
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
